@@ -1,3 +1,4 @@
 <?php
 echo 'Welcome TECH QUEST!';
-// mainからの分岐
+echo 'See You TECH QUEST!';
+
